@@ -28,10 +28,10 @@
 <div class="mainwrapper fullwrapper">
 		
     <div class="headerpanel">
-        	<a href="" class="showmenu"></a><h1 > SISTEM INFORMASI RISET BADAN LITBANGKES</h1>  
+        	<h1>SISTEM INFORMASI RISET</h1>
+          <span class="litbangkes-small-title">BADAN PENELITIAN DAN PENGEMBANGAN KESEHATAN </span>
             
             <div class="headerright">
-                
     					<div class="dropdown userinfo">
               			<img src="<?php echo Yii::app()->theme->baseUrl;?>/img/photo/pic1.png" >
                     <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/page.html">Hi,
